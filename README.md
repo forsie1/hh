@@ -7,5 +7,4 @@
 </head>
 <body>
     <h1><center>В асортименті:</center>
-</body>
-</html>
+
